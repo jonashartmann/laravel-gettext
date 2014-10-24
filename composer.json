@@ -1,7 +1,7 @@
 {
-    "name": "xinax/laravel-gettext",
+    "name": "jonashartmann/laravel-gettext",
     "description": "Adds localization support to laravel applications in an easy way using PoEdit and GNU-Gettext.",
-    "homepage": "https://github.com/xinax/laravel-gettext",
+    "homepage": "https://github.com/jonashartmann/laravel-gettext",
     "keywords": ["gettext", "localization", "poedit", "laravel-gettext", "laravel", "translation"],
     "license": "MIT",    
     "authors": [
